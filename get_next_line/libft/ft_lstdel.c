@@ -3,7 +3,7 @@
 /*                                                        :::      ::::::::   */
 /*   ft_lstdel.c                                        :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: rgrigore <marvin@42.fr>                    +#+  +:+       +#+        */
+/*   By: rgrigore <rgrigore@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2017/12/08 20:14:36 by rgrigore          #+#    #+#             */
 /*   Updated: 2017/12/10 17:10:46 by rgrigore         ###   ########.fr       */

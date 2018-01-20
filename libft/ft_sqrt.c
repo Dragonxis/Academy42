@@ -3,7 +3,7 @@
 /*                                                        :::      ::::::::   */
 /*   ft_sqrt.c                                          :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: rgrigore <marvin@42.fr>                    +#+  +:+       +#+        */
+/*   By: rgrigore <rgrigore@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2017/12/14 15:27:53 by rgrigore          #+#    #+#             */
 /*   Updated: 2017/12/14 15:48:16 by rgrigore         ###   ########.fr       */

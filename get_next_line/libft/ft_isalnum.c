@@ -3,7 +3,7 @@
 /*                                                        :::      ::::::::   */
 /*   ft_isalnum.c                                       :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: rgrigore <marvin@42.fr>                    +#+  +:+       +#+        */
+/*   By: rgrigore <rgrigore@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2017/12/07 08:47:33 by rgrigore          #+#    #+#             */
 /*   Updated: 2017/12/07 08:50:56 by rgrigore         ###   ########.fr       */

@@ -3,7 +3,7 @@
 /*                                                        :::      ::::::::   */
 /*   solver.c                                           :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: rgrigore <marvin@42.fr>                    +#+  +:+       +#+        */
+/*   By: rgrigore <rgrigore@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2017/09/02 11:15:34 by rgrigore          #+#    #+#             */
 /*   Updated: 2017/09/04 12:41:19 by rgrigore         ###   ########.fr       */

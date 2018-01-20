@@ -3,7 +3,7 @@
 #                                                         :::      ::::::::    #
 #    Makefile                                           :+:      :+:    :+:    #
 #                                                     +:+ +:+         +:+      #
-#    By: rgrigore <marvin@42.fr>                    +#+  +:+       +#+         #
+#    By: rgrigore <rgrigore@student.42.fr>          +#+  +:+       +#+         #
 #                                                 +#+#+#+#+#+   +#+            #
 #    Created: 2017/12/27 21:49:16 by rgrigore          #+#    #+#              #
 #    Updated: 2017/12/27 22:00:40 by rgrigore         ###   ########.fr        #

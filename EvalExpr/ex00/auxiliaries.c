@@ -3,7 +3,7 @@
 /*                                                        :::      ::::::::   */
 /*   auxiliaries.c                                      :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: rgrigore <marvin@42.fr>                    +#+  +:+       +#+        */
+/*   By: rgrigore <rgrigore@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2017/09/03 10:32:16 by rgrigore          #+#    #+#             */
 /*   Updated: 2017/09/03 17:25:20 by rgrigore         ###   ########.fr       */

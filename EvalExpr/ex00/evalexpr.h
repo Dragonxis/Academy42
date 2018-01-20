@@ -3,7 +3,7 @@
 /*                                                        :::      ::::::::   */
 /*   evalexpr.h                                         :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: rgrigore <marvin@42.fr>                    +#+  +:+       +#+        */
+/*   By: rgrigore <rgrigore@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2017/09/02 11:12:18 by rgrigore          #+#    #+#             */
 /*   Updated: 2017/09/03 18:11:56 by rgrigore         ###   ########.fr       */

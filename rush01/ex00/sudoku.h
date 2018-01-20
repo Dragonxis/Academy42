@@ -3,7 +3,7 @@
 /*                                                        :::      ::::::::   */
 /*   sudoku.h                                           :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: rgrigore <marvin@42.fr>                    +#+  +:+       +#+        */
+/*   By: rgrigore <rgrigore@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2017/08/26 16:02:01 by rgrigore          #+#    #+#             */
 /*   Updated: 2017/08/26 18:57:17 by rgrigore         ###   ########.fr       */

@@ -3,7 +3,7 @@
 /*                                                        :::      ::::::::   */
 /*   nmatch.c                                           :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: rgrigore <marvin@42.fr>                    +#+  +:+       +#+        */
+/*   By: rgrigore <rgrigore@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2017/08/27 11:06:00 by rgrigore          #+#    #+#             */
 /*   Updated: 2017/08/27 11:06:30 by rgrigore         ###   ########.fr       */

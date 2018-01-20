@@ -3,7 +3,7 @@
 /*                                                        :::      ::::::::   */
 /*   rush04.c                                           :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: rgrigore <marvin@42.fr>                    +#+  +:+       +#+        */
+/*   By: rgrigore <rgrigore@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2017/08/20 10:56:49 by rgrigore          #+#    #+#             */
 /*   Updated: 2017/08/20 11:17:31 by rgrigore         ###   ########.fr       */

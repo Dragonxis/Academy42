@@ -3,7 +3,7 @@
 /*                                                        :::      ::::::::   */
 /*   ft_strchrcpy.c                                     :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: rgrigore <marvin@42.fr>                    +#+  +:+       +#+        */
+/*   By: rgrigore <rgrigore@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2018/01/11 11:17:53 by rgrigore          #+#    #+#             */
 /*   Updated: 2018/01/11 11:17:56 by rgrigore         ###   ########.fr       */
